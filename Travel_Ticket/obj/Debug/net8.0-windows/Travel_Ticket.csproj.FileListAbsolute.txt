@@ -1,0 +1,33 @@
+D:\C# lesson\Travel_Ticket\Travel_Ticket\bin\Debug\net8.0-windows\Travel_Ticket.exe
+D:\C# lesson\Travel_Ticket\Travel_Ticket\bin\Debug\net8.0-windows\Travel_Ticket.deps.json
+D:\C# lesson\Travel_Ticket\Travel_Ticket\bin\Debug\net8.0-windows\Travel_Ticket.runtimeconfig.json
+D:\C# lesson\Travel_Ticket\Travel_Ticket\bin\Debug\net8.0-windows\Travel_Ticket.dll
+D:\C# lesson\Travel_Ticket\Travel_Ticket\bin\Debug\net8.0-windows\Travel_Ticket.pdb
+D:\C# lesson\Travel_Ticket\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.Form1.resources
+D:\C# lesson\Travel_Ticket\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.csproj.GenerateResource.cache
+D:\C# lesson\Travel_Ticket\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\Travel_Ticket\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.AssemblyInfoInputs.cache
+D:\C# lesson\Travel_Ticket\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.AssemblyInfo.cs
+D:\C# lesson\Travel_Ticket\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.csproj.CoreCompileInputs.cache
+D:\C# lesson\Travel_Ticket\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.dll
+D:\C# lesson\Travel_Ticket\Travel_Ticket\obj\Debug\net8.0-windows\refint\Travel_Ticket.dll
+D:\C# lesson\Travel_Ticket\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.pdb
+D:\C# lesson\Travel_Ticket\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.genruntimeconfig.cache
+D:\C# lesson\Travel_Ticket\Travel_Ticket\obj\Debug\net8.0-windows\ref\Travel_Ticket.dll
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.Form1.resources
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.csproj.GenerateResource.cache
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.AssemblyInfoInputs.cache
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.AssemblyInfo.cs
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.csproj.CoreCompileInputs.cache
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.sourcelink.json
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.dll
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\obj\Debug\net8.0-windows\refint\Travel_Ticket.dll
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.pdb
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\bin\Debug\net8.0-windows\Travel_Ticket.exe
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\bin\Debug\net8.0-windows\Travel_Ticket.deps.json
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\bin\Debug\net8.0-windows\Travel_Ticket.runtimeconfig.json
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\bin\Debug\net8.0-windows\Travel_Ticket.dll
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\bin\Debug\net8.0-windows\Travel_Ticket.pdb
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\obj\Debug\net8.0-windows\Travel_Ticket.genruntimeconfig.cache
+C:\projects\c#\New folder\Tapsiriq 4\Travel_Ticket\obj\Debug\net8.0-windows\ref\Travel_Ticket.dll
